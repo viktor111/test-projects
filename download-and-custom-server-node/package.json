@@ -1,0 +1,29 @@
+{
+  "name": "download-and-custom-server-node",
+  "version": "1.0.0",
+  "description": "Custom online server and download test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktor111/CV-App-Project.git"
+  },
+  "keywords": [
+    "custom",
+    "server",
+    "download",
+    "node"
+  ],
+  "author": "viktor draganov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktor111/CV-App-Project/issues"
+  },
+  "homepage": "https://github.com/viktor111/CV-App-Project#readme",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "express": "^4.17.1"
+  }
+}
