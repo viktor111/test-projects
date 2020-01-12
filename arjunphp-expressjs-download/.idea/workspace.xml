@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0b93751-cc65-443e-9d2a-71c5150b78d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../download-and-custom-server-node/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../download-and-custom-server-node/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="d0b93751-cc65-443e-9d2a-71c5150b78d5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +15,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../node-chat-room" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578015604051</updated>
       <workItem from="1578015605226" duration="1908000" />
+      <workItem from="1578208533536" duration="26000" />
     </task>
     <servers />
   </component>
@@ -65,7 +63,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
