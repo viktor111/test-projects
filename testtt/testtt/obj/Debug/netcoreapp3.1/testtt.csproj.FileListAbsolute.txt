@@ -1,0 +1,11 @@
+C:\Users\varti\source\repos\testtt\testtt\bin\Debug\netcoreapp3.1\testtt.exe
+C:\Users\varti\source\repos\testtt\testtt\bin\Debug\netcoreapp3.1\testtt.deps.json
+C:\Users\varti\source\repos\testtt\testtt\bin\Debug\netcoreapp3.1\testtt.runtimeconfig.json
+C:\Users\varti\source\repos\testtt\testtt\bin\Debug\netcoreapp3.1\testtt.runtimeconfig.dev.json
+C:\Users\varti\source\repos\testtt\testtt\bin\Debug\netcoreapp3.1\testtt.dll
+C:\Users\varti\source\repos\testtt\testtt\bin\Debug\netcoreapp3.1\testtt.pdb
+C:\Users\varti\source\repos\testtt\testtt\obj\Debug\netcoreapp3.1\testtt.csprojAssemblyReference.cache
+C:\Users\varti\source\repos\testtt\testtt\obj\Debug\netcoreapp3.1\testtt.AssemblyInfoInputs.cache
+C:\Users\varti\source\repos\testtt\testtt\obj\Debug\netcoreapp3.1\testtt.AssemblyInfo.cs
+C:\Users\varti\source\repos\testtt\testtt\obj\Debug\netcoreapp3.1\testtt.dll
+C:\Users\varti\source\repos\testtt\testtt\obj\Debug\netcoreapp3.1\testtt.pdb
