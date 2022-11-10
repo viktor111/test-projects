@@ -10,7 +10,7 @@
   "author": "Viktor Draganov",
   "license": "Viktor",
   "devDependencies": {
-    "electron": "^7.1.7"
+    "electron": "^18.3.7"
   },
   "dependencies": {
     "electron-handlebars": "^2.0.0"
