@@ -24,6 +24,6 @@
   "homepage": "https://github.com/viktor111/CV-App-Project#readme",
   "dependencies": {
     "download-file": "^0.1.5",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
